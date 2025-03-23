@@ -43,7 +43,7 @@ pip install numpy opencv-python scikit-image torch tqdm matplotlib torchvision m
 
 ```bash
 git clone https://github.com/anujjagetia5/Neural-Radiance-Field.git
-cd NeRF-View-Synthesis-main
+cd Neural-Radiance-Field-main
 ```
 
 2. To train the NeRF model and generate results, run the following command:
